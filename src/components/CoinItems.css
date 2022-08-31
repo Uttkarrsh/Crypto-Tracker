@@ -1,0 +1,8 @@
+@media (max-width:468px){
+    #symbol{
+        /* display: none; */
+    }
+    .coin-name{
+        display: none;
+    }
+}
